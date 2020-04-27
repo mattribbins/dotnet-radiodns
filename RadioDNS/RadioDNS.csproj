@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.3</TargetFramework>
     <UserSecretsId>2749ab5d-bb92-4756-9459-64b8a37afac6</UserSecretsId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Library for RadioDNS resolutions and service lookups.</Description>
